@@ -1,0 +1,38 @@
+.form .input-text-type {
+    display: inline-block;
+    float: right;
+}
+.form-group {
+  
+}
+.form label {
+    color: var(--text-color);
+    font-weight: 600;
+    font-size: 20px;
+}
+.form {
+    text-align: left;
+}
+.container-form {
+    margin-top: 70px;
+    height: 100%;
+    display: grid;
+    place-items: center;
+}
+.modal-content {
+    background-color: var(--modal-color) !important;
+}
+.form-group label {
+    margin-bottom: 4px;
+    color: var(--text-color);
+}
+.modal-header h1 {
+    text-align: center;
+    color: var(--text-color);
+}
+.submit {
+    text-align: center;
+}
+.btn-lost-book {
+    margin-top: 50px;
+}

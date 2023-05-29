@@ -1,0 +1,17 @@
+.modal-content {
+    background-color: var(--modal-color) !important;
+}
+.form-group label {
+    margin-bottom: 4px;
+    color: var(--text-color);
+}
+.modal-header h1 {
+    text-align: center;
+    color: var(--text-color);
+}
+.submit {
+    text-align: center;
+}
+.btn-lost-book {
+    margin-top: 50px;
+}

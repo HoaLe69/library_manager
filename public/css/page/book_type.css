@@ -1,0 +1,18 @@
+.container-form {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.input-text-type {
+    display: inline-block;
+}
+.form label {
+    color: var(--text-color);
+    font-size: 25px;
+    font-weight: 600;
+    margin-right: 20px;
+}
+.form {
+    margin-top: 200px;
+}
